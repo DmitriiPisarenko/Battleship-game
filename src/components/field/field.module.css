@@ -1,5 +1,6 @@
 .field {
   margin: 50px;
+  border: 2px solid rgb(221, 25, 25);
 }
 
 .row {

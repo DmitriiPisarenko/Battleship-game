@@ -1,3 +1,9 @@
 .container {
   display: flex;
+  justify-content: center;
+  
+}
+
+.fieldOne {
+  border: 1px solid black;
 }

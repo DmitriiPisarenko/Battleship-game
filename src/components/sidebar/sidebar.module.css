@@ -1,0 +1,17 @@
+.sidebar {
+  border: 1px solid black;
+  display: flex;
+  align-items: flex-end;
+}
+
+.deck {
+  width: 20px;
+  height: 20px;
+  border: 1px solid rgb(212, 212, 212);
+  background-color: gray;
+}
+
+.ship {
+  display: flex;
+  margin: 10px;
+}
